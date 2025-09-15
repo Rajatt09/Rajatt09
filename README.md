@@ -10,9 +10,9 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-🌟 **🌟 Passionate Computer Science Student exploring Full-Stack Development, Problem Solving & Open Source**
+🌟 **Passionate Computer Science Student exploring Full-Stack Development, Problem Solving & Open Source**
 
-⚡ Passionate about building **robust systems** that scale to millions of users
+⚡Passionate about building **robust systems** that scale to millions of users
 
 🧩 **650+ problems solved** on LeetCode and Codeforces
 
@@ -51,7 +51,21 @@
 ### 🌐 Frontend Powerhouse
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,materialui,redux,styledcomponents&theme=dark" />
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=materialui&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" width="48"/></td>
+  </tr>
+</table>
 
 </div>
 
@@ -97,7 +111,19 @@
 ### 🛠️ Development Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,figma,notion&theme=dark" />
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=npm&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48"/></td>
+  </tr>
+</table>
+
 </div>
 
 ---
