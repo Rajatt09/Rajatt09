@@ -57,39 +57,41 @@
 
 ### ⚡ Backend & APIs Mastery
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python&theme=dark" />
-
-  <!-- Custom Icons with Dark Background -->
-  <div style="background-color:#0f1b2b; padding:17px 7px; margin-left:-20px; border-radius:8px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://jwt.io/img/logo.svg" alt="JWT" width="35"/>
-  </div>
-  <div style="background-color:#0f1b2b; padding:10px 7px;  border-radius:8px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://nodemailer.com/img/nm_logo_200x136.png" alt="Nodemailer" width="35"/>
-  </div>
-  <div style="background-color:#0f1b2b; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://socket.io/images/logo-dark.svg" alt="Socket.io" width="30"/>
-  </div>
-  <div style="background-color:#0f1b2b; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC" width="25"/>
-  </div>
-</div>
-
-### 🗄️ Database Expertise
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,supabase&theme=dark" />
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48"/></td>
+    <td><img src="https://jwt.io/img/logo.svg" width="48"/></td>
+    <td><img src="https://socket.io/images/logo-dark.svg" width="40"/></td>
+    <td><img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" width="40"/></td>
+  </tr>
+</table>
+
 </div>
 
 ### ☁️ Cloud, DevOps & Tools
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,netlify,vercel&theme=dark" />
+<div align="center">
 
-  <!-- Custom Icon with Dark Background -->
-  <div style="background-color:#0f1b2b; padding:7px; margin-left:-20px; border-radius:8px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="Google Apps Script" width="35"/>
-  </div>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48"/></td>
+    <td>
+      <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:7px; border-radius:8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" width="35"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ### 🛠️ Development Tools
