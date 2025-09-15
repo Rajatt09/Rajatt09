@@ -130,8 +130,6 @@
 
 ## 🎯 Current Focus Areas
 
-🎯 Current Focus Areas
-
 <div align="center">
   <table>
     <tr>
