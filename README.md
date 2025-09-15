@@ -1,18 +1,192 @@
-# 💫 About Me:
-👋 Hi there, I'm Rajat Bhati ! <br><br>💻 I'm  a developer skilled in C, C++, CSS, HTML, and JavaScript. My journey in the world of programming began with a curiosity to create and innovate. <br><br>⭐ I thrive on solving complex problems and turning ideas into functional, elegant code. My dedication to clean and efficient coding practices ensures that my projects are not only functional but also maintainable and scalable.<br><br>🔍 When I'm not coding, you can find me exploring new technologies,  I believe in the power of collaboration and the endless possibilities of code.<br><br>🌐 Let's Connect and embark on exciting coding adventures together !<br><br>
+# Hey there, I am Rajat Bhati! 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=MERN+Stack+Developer+⚡;Passionate+About+Software+Engineering+🚀;Problem+Solver+%26+Innovator+🧩;Open+Source+Enthusiast+🌟;Exploring+Tech,+Solving+Problems,+Growing+Everyday+✨" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajat____.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajat-bhati-6a2114216) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RajatBhati_) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,100:0080FF&height=120&section=header&text=&fontSize=0"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rajatt09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rajatt09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatt09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌟 **🌟 Passionate Computer Science Student exploring Full-Stack Development, Problem Solving & Open Source**
+
+⚡ Passionate about building **robust systems** that scale to millions of users
+
+🧩 **650+ problems solved** on LeetCode and Codeforces
+
+🌱 Currently mastering **Full-Stack development, DSA and exploring Cloud Technologies and Generative AI**
+
+🎯 **Mission**: Making developers' lives easier through elegant automation
+
+☕ **Philosophy**: Good code + Great coffee = Magic happens
+
+<br clear="right"/>
+
+---
+
+🎯 Quick Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajatt09&theme=algolia" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajatt09&theme=algolia" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajatt09&theme=algolia" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajatt09&theme=algolia" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajatt09&theme=algolia&utcOffset=5.5" alt="Productive Time"/>
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Devoured!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rajatt09/Rajatt09/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+---
+
+## 💻 Tech Stack Arsenal
+
+### 🌐 Frontend Powerhouse
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,materialui,redux,styledcomponents&theme=dark" />
+
+</div>
+
+### ⚡ Backend & APIs Mastery
+
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python&theme=dark" />
+
+  <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:18px 5px; margin-left: -8px;border-radius:8px;">
+    <img src="https://jwt.io/img/logo.svg" alt="JWT" width="35" />
+  </div>
+  <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:12px 6px; margin-left: 0px;border-radius:8px;">
+    <img src="https://nodemailer.com/img/nm_logo_200x136.png" alt="JWT" width="35" />
+  </div>
+  <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:8px 7px; margin-left: 0px;border-radius:8px;">
+    <img src="https://socket.io/images/logo-dark.svg" alt="JWT" width="30" />
+  </div>
+  <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:8px 10px; margin-left: 0px;border-radius:8px;">
+    <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="JWT" width="25" />
+  </div>
+  
+</div>
+
+### 🗄️ Database Expertise
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,supabase&theme=dark" />
+</div>
+
+### ☁️ Cloud, DevOps & Tools
+
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,netlify,vercel&theme=dark" />
+  <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:7px 7px; margin-left: 0px;border-radius:8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="JWT" width="35" />
+  </div> 
+</div>
+
+### 🛠️ Development Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,figma,notion&theme=dark" />
+</div>
+
+---
+
+## 🎯 Current Focus Areas
+
+🎯 Current Focus Areas
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://www.credosystemz.com/wp-content/uploads/2023/09/cc.webp" width="80"/>
+        <br><strong>C/C++</strong>
+        <br><sub>Problem Solving & Algorithms</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+        <br><strong>React</strong>
+        <br><sub>Frontend Development</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+        <br><strong>Node.js</strong>
+        <br><sub>Backend Development</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
+        <br><strong>DevOps</strong>
+        <br><sub>CI/CD & Automation</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+        <br><strong>Version Control</strong>
+        <br><sub>Collaboration & Deployment</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+---
+
+## 📊 Weekly Development Breakdown
+
+<!-- START_SECTION:waka -->
+<!--END_SECTION:waka-->
+
+---
+
+## 💬 Let's Connect & Collaborate
+
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
+  <a href="https://linkedin.com/in/rajatbhati">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rajatbhati9559@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://x.com/RajatBhati_?t=i_Vi06X_SDKEbCHUGy2UVQ&s=09">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/rajat___.13">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/Rajatt09">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="Follow on GitHub"/>
+  </a>
+  <a href="https://github.com/Rajatt09?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-00D8FF?style=for-the-badge&logo=github&logoColor=white&labelColor=00D8FF" alt="View Repositories"/>
+  </a>
+</div>
+
+---
+
+## 📈 Profile Metrics
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajatt09&label=Profile%20Views&color=00D8FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Rajatt09?label=Followers&style=for-the-badge&color=0080FF&labelColor=0080FF" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Rajatt09?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFD700" alt="Total Stars"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House 🚀</h2>
+  <h3>✨ Let's build something extraordinary together! ✨</h3>
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Powered by passion, fueled by coffee, and driven by the desire to make a difference ⚡</sub>
+</div>
