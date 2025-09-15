@@ -26,7 +26,7 @@
 
 ---
 
-🎯 Quick Stats
+## 🎯 Quick Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajatt09&theme=algolia" alt="Profile Details"/>
@@ -57,22 +57,22 @@
 
 ### ⚡ Backend & APIs Mastery
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
+<div align="center" style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:10px;">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python&theme=dark" />
 
-  <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:18px 5px; margin-left: -8px;border-radius:8px;">
-    <img src="https://jwt.io/img/logo.svg" alt="JWT" width="35" />
+  <!-- Custom Icons with Dark Background -->
+  <div style="background-color:#0f1b2b; padding:17px 7px; margin-left:-20px; border-radius:8px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://jwt.io/img/logo.svg" alt="JWT" width="35"/>
   </div>
-  <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:12px 6px; margin-left: 0px;border-radius:8px;">
-    <img src="https://nodemailer.com/img/nm_logo_200x136.png" alt="JWT" width="35" />
+  <div style="background-color:#0f1b2b; padding:10px 7px;  border-radius:8px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://nodemailer.com/img/nm_logo_200x136.png" alt="Nodemailer" width="35"/>
   </div>
-  <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:8px 7px; margin-left: 0px;border-radius:8px;">
-    <img src="https://socket.io/images/logo-dark.svg" alt="JWT" width="30" />
+  <div style="background-color:#0f1b2b; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://socket.io/images/logo-dark.svg" alt="Socket.io" width="30"/>
   </div>
-  <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:8px 10px; margin-left: 0px;border-radius:8px;">
-    <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="JWT" width="25" />
+  <div style="background-color:#0f1b2b; padding:8px; border-radius:8px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC" width="25"/>
   </div>
-  
 </div>
 
 ### 🗄️ Database Expertise
@@ -83,11 +83,13 @@
 
 ### ☁️ Cloud, DevOps & Tools
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
+<div align="center" style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:10px;">
   <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,netlify,vercel&theme=dark" />
-  <div style="background-color:#0f1b2b; display:flex; justify-content:center; align-items:center; padding:7px 7px; margin-left: 0px;border-radius:8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="JWT" width="35" />
-  </div> 
+
+  <!-- Custom Icon with Dark Background -->
+  <div style="background-color:#0f1b2b; padding:7px; margin-left:-20px; border-radius:8px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="Google Apps Script" width="35"/>
+  </div>
 </div>
 
 ### 🛠️ Development Tools
